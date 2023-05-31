@@ -1,3 +1,10 @@
+#opening it in vscode in brouser link
+
+*only methord*
+copy this link to brouser
+https://vscode.dev/github/20B81A05D1/DS_IOT_LAB_EXTERNAL
+
+
 #this is a git repo commands to copy these
 
 *methord 1 (SIMPLEST)*
